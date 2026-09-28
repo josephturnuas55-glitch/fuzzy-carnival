@@ -1,5 +1,5 @@
 {
-  "name": "wst2-activity1-attendance",
+  "name": "wst2-activity2-todo",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -17,3 +17,4 @@
     "vite": "^5.4.11"
   }
 }
+
